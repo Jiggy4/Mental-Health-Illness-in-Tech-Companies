@@ -4,7 +4,9 @@ This project focuses on predicting mental health illnesses in tech companies by 
 
 ## Data Description
 Dataset Size: 1,259 records of tech company employees
+
 Features: 27 independent variables 
+
 Target Variable: Employee openness to seeking treatment
 ## Technology Stack
 Programming Language: Python

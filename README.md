@@ -10,6 +10,7 @@ Features: 27 independent variables
 Target Variable: Employee openness to seeking treatment
 ## Technology Stack
 Programming Language: Python
+
 Machine Learning Models:Logistic Regression, K-Nearest Neighbors (KNN)Random Forest, XGBoost
 ## Model Performance
 Best Performing Model: XGBoost with an accuracy of 85.9%, sensitivity of 91.5%, and F1-score of 0.85

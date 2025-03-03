@@ -1,4 +1,4 @@
-# Project Architecture for Mental Health Prediction in Tech Companies
+# Project Architecture for Mental Health Analysis in Tech Companies
 ## Overview
 This project focuses on predicting mental health illnesses in tech companies by analyzing a dataset of 1,259 employees. The goal is to identify factors influencing employees' decision to seek mental health treatment and to develop strategies that enhance their well-being and overall mental health.
 
